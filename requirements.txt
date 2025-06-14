@@ -1,0 +1,8 @@
+python-telegram-bot==20.7
+fastapi
+uvicorn
+openai
+sqlalchemy[asyncio]
+asyncpg
+geopy
+aiohttp
